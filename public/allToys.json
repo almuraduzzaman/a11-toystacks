@@ -1,0 +1,39 @@
+[
+      {
+        "id": 1,
+        "picture_url": "https://www.lego.com/cdn/cs/aboutus/assets/blt1a7da599338d25a1/60271_Lifestyle_Alternative_01_3.jpg?disable=upscale&width=960&quality=55",
+        "name": "Toy 1",
+        "seller_name": "Seller A",
+        "seller_email": "sellerA@example.com",
+        "sub_category": "Educational",
+        "price": 29.99,
+        "rating": 4.5,
+        "available_quantity": 10,
+        "detail_description": "This educational toy is designed to enhance cognitive skills and creativity."
+      },
+      {
+        "id": 2,
+        "picture_url": "https://www.lego.com/cdn/cs/aboutus/assets/blt1a7da599338d25a1/60271_Lifestyle_Alternative_01_3.jpg?disable=upscale&width=960&quality=55",
+        "name": "Toy 2",
+        "seller_name": "Seller B",
+        "seller_email": "sellerB@example.com",
+        "sub_category": "Science",
+        "price": 19.99,
+        "rating": 4.2,
+        "available_quantity": 5,
+        "detail_description": "Explore the wonders of science with this interactive and engaging toy."
+      },
+      {
+        "id": 3,
+        "picture_url": "https://www.lego.com/cdn/cs/aboutus/assets/blt1a7da599338d25a1/60271_Lifestyle_Alternative_01_3.jpg?disable=upscale&width=960&quality=55",
+        "name": "Toy 3",
+        "seller_name": "Seller C",
+        "seller_email": "sellerC@example.com",
+        "sub_category": "Math",
+        "price": 24.99,
+        "rating": 4.7,
+        "available_quantity": 8,
+        "detail_description": "Develop mathematical skills while having fun with this educational math toy."
+      }
+    ]
+  
